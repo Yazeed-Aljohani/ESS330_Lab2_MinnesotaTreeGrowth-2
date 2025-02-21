@@ -3,6 +3,7 @@ title: "lab2_analysis"
 author: "Yazeed Aljohani"
 date: "02/20/2025"
 format: html 
+output-dir: docs
 ---
 
 ```{r setup, include=FALSE, message=FALSE, warning=FALSE}
